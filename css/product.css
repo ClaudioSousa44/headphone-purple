@@ -19,6 +19,7 @@
 }
 .product__image{
     height: 60%;
+    width: auto;
 }
 .product__navegation-container{
     display: flex;
